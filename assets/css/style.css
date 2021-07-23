@@ -81,7 +81,6 @@ body{
 }
 
 
-
 /* style for the content of the home page */
 
 .def-meditation{
@@ -193,3 +192,153 @@ footer{
     text-decoration: none; 
     margin-top: 30px; 
 }
+
+/* Media queries */
+
+/* For screens  with 1200px and down */
+@media screen and (max-width:1200px) {
+    /* .hero-section{
+     width: 65%;
+    }  */ 
+     #quote>p{
+      right:100px;
+     }
+  
+     .def-meditation{
+      margin:10px 150px 20px 200px;
+       }
+  
+       .meditation-types{
+          margin:10px 100px 20px 200px;
+      }  
+  }
+
+  /* For screens  with 800px and down */
+@media screen and (max-width:800px) {
+    /* .hero-section{
+     width: 65%;
+    }  */ 
+     #quote>p{
+      right:50px;
+     }
+      .form-content{
+        margin: 20px 0 40px 190px;        
+    }
+  }
+
+/* For screens  with 768px (ipad or tablet) and down */
+@media screen and (max-width:768px){
+
+      .def-meditation{
+      margin-left: 150px;
+       }
+  
+       .meditation-types{
+          margin-left: 110px;
+      }  
+
+      p{
+          width: 100%;
+      }      
+
+}
+
+/* For screens  with 375px and down */
+@media screen and (max-width:375px) {
+
+    /* header seaction */
+     #logo>img{
+        border-radius: 50%;
+        width:60px;
+        height:60px;  
+       }
+    #logo{
+        margin: 5px 0 0 130px;
+       }
+
+    .nav-bar{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        } 
+
+    .nav-menu{
+        margin-top: 15px;
+        display:flex;
+        justify-content:space-evenly; 
+         }
+
+    .nav-menu>a{
+        font-size:small;
+        font-weight:400;
+       }
+
+    .nav-menu>a:hover {  
+        border-bottom: none;
+         }
+
+     .active{
+     border-bottom:none;
+        }
+
+        /* hero section */
+     #quote>p{
+    right:50px;
+    color: white;
+    font-weight:bold;
+    font-size:x-small;
+    font-style:italic;
+    position: absolute;
+    width: 140px;
+    height:30px;
+    right:5px;
+    bottom:0px;
+     }
+
+     /* home page */
+   .def-meditation{
+        margin:10px 0 20px 25px;
+   }
+     
+     /* meditation types page */
+   .meditation-types{
+       margin:10px 0 20px 25px;
+     } 
+
+     h2{
+        font-size:medium;
+        font-weight:600;
+          }
+    
+        p{
+            width: 90%;
+        }  
+
+   /* contact page */
+
+   .form-section{
+       margin:10px 60px 20px 10px;
+      }
+
+   .form-content{   
+    margin: 20px 0 30px 50px; 
+      }
+
+    
+   .contact{
+    width: 300px; 
+     }
+
+  .feedback{
+    width: 300px; 
+   }
+
+  .submit-button{
+    margin: 40px 0 110px 70px;
+    }
+
+   footer{
+    margin-top: 50px;
+    }
+ }
+
