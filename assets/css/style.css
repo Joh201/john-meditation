@@ -45,5 +45,39 @@ body{
  #logo>img{
     border-radius: 50%;
     padding-top: 5px;
+}
 
+/* Style for the hero section */
+
+#logo>img{
+    border-radius: 50%;
+    padding-top: 5px;   
+}
+
+
+#hero-image{
+    width: 100%;
+}
+
+#hero-image>img{ 
+    background: no-repeat center center;
+    width: 100%; 
+} 
+
+.hero-section{
+    position: relative;
+}
+
+#quote>p{
+    color: white;
+   /*  black :color: rgb(15, 15, 14); */
+    font-weight: bolder;
+    font-size:larger;
+    font-style:italic;
+    position: absolute;
+    width: 270px;
+    height:80px;
+    /* top:150px; */
+    right:200px;
+    bottom:0px;
 }
