@@ -37,18 +37,32 @@
 
     <!-- Form section -->
     <section class="form-section">
-      <form method="POST" action="" class="form-content">
+      <form method="POST" action="https://formdump.codeinstitute.net/" class="form-content">
+
+        <div>
+            <label for="fname" class="label">First Name</label><br>
+            <input type="text" id="fname" name="first-name" class="contact" placeholder= "First Name" required><br>
+
+            <label for="lname" class="label">Last Name</label><br>
+            <input type="text" id="lname" name="last-name" class="contact" placeholder= "Last Name" required><br>
+
+            <label for="email" class="label">Email Address</label><br>
+            <input type="email" id="email" name="email-address" class="contact" placeholder= "Email" required><br>
+        </div>
+
           <div>
-            
-          </div>
-          <div>
+              <label for="feedback" class="label">Feedback</label><br>
+              <textarea type="text" id="feedback" name="feed-back" class="feedback" placeholder=" comments or questions"></textarea><br>
               
+              <input type="checkbox" id="check-box" class="check"name="consent" value="agree" required>
+              <label for="check-box">By using this form I consent to the storage and handling of my data for the purpose of
+                further communications.
             </label>
           </div>
-      <div>
+       <div>
         <input type="submit" value="Send Feedback" class="submit-button">
-      </div>
-        
+       </div>
+
       </form>
     </section>
 

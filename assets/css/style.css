@@ -70,14 +70,111 @@ body{
 
 #quote>p{
     color: white;
-   /*  black :color: rgb(15, 15, 14); */
     font-weight: bolder;
     font-size:larger;
     font-style:italic;
     position: absolute;
     width: 270px;
     height:80px;
-    /* top:150px; */
     right:200px;
     bottom:0px;
+}
+
+
+
+/* style for the content of the home page */
+
+.def-meditation{
+    margin:10px 150px 20px 150px;
+}
+
+#meditation-benefit{
+    margin-bottom: 10px; 
+}
+
+#meditation-benefit>a{
+    text-decoration: none;
+    color:coral;
+}
+
+p{
+ margin-bottom: 20px;
+ width: 75%;
+ text-align: justify;
+}
+
+ul{
+    list-style-type:none;   
+}
+
+/* from external source */
+li::before{
+    content: "\261B";
+    color: coral;
+    font-weight: bold;
+    padding-right: 10px;
+    text-align: justify;
+}
+
+/* style for the content of the meditation types page */
+
+.meditation-types{
+ margin:10px 100px 20px 100px;
+}
+
+/* style for the contents of the contact page */
+.form-section{
+    display: flex;
+    /*flex-direction:column;*/
+    justify-content: center;
+}
+
+.form-content{   
+    margin: 20px 0 30px 250px;
+    /*align-items: center;*/   
+}
+
+.label{
+font-weight: 500;
+}
+
+.contact{
+    color: black;
+    width: 400px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 2px; 
+    margin-bottom: 10px;    
+}
+
+.contact:hover{
+    border: 2px solid chocolate;
+}
+
+.feedback{
+    border: 1px solid black;
+    width: 400px;
+    height: 70px;
+    border-radius: 2px; 
+    margin-bottom: 10px;   
+}
+
+.feedback:hover{
+    border: 2px solid chocolate;
+}
+
+.submit-button{
+    border: 1px solid black;
+    width: 150px;
+    height:30px;
+    text-align: center;
+    border-radius: 2px; 
+    background-color:wheat;
+    margin: 25px 0 110px 110px;
+}
+
+.submit-button:hover{
+    border: 2px solid chocolate;
+    background-color:darkorange;
+    color:white
 }
