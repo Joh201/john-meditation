@@ -5,9 +5,7 @@ Nowadays we live in a very fast paced and stressful world due to work or other s
 Since, mediation is one of the ways to achieve peace and health in your life, this website provides useful information to those who need information on how to meditate,
 and it also provides a choice among four different types of mediation.</p>
 
-
 ![website-look](assets/images/website-look.JPG)
-
 
 ## Existing features
 
@@ -18,7 +16,8 @@ and it also provides a choice among four different types of mediation.</p>
 It contains links to the Logo of the page, the Home page, Type’s of meditation page and the Contact page. Furthermore, when the Logo is clicked it takes the user to the home page.
 </li>
 </ul>
-<img src="/workspace/john-meditation/assets/images/nav-bar.JPG">
+
+![navigation bar](assets/images/nav-bar.JPG)
 
 ### The landing page image
 <ul>
@@ -26,7 +25,7 @@ It contains links to the Logo of the page, the Home page, Type’s of meditation
 <li>It contains a meaningful quote to inspire the user of the website.</li>
 </ul>
 
-<img src="/workspace/john-meditation/assets/images/read-hero.JPG">
+![landing page image](assets/images/read-hero.JPG)
 
 
 ### The home page
@@ -38,13 +37,16 @@ It contains links to the Logo of the page, the Home page, Type’s of meditation
 <ul>
 <li> The benefits of meditation section highlights to the user the benefits of regular mediation, and it also encourages the user to explore the different parts of the website. </li>
 </ul>
-<img src="/workspace/john-meditation/assets/images/home-section.JPG">
+
+  ![home page image](assets/images/home-section.JPG)
 
 ### Types of meditation page
 <ul>
 <li>The contents of this page familiarize the user to the different types of meditation and explain how the user can practice each meditation. </li>
 </ul>
-<img src="/workspace/john-meditation/assets/images/meditation-type.JPG">
+
+![types of meditation page](assets/images/meditation-type.JPG)
+
 
 ### The contact page
 <ul>
@@ -52,7 +54,8 @@ It contains links to the Logo of the page, the Home page, Type’s of meditation
 <li>The page includes a checkbox where the user is allowed to consent to the collection of personal information for the sole purpose of further communications. </li>
 <li>It contains a submit button where the user can click after filling out the contact details and comments. </li>
 </ul>
-<img src="/workspace/john-meditation/assets/images/contact.JPG">
+
+![contact image](assets/images/contact.JPG)
 
 
 ### The footer section
@@ -62,5 +65,6 @@ It contains links to the Logo of the page, the Home page, Type’s of meditation
 <li>The user gets a feeling of togetherness by joining meditation groups on different social media sites and boost the user’s experience of practicing meditation. </li>
 </ul>
 
-<img src="/workspace/john-meditation/assets/images/footer.JPG">
+
+![ footer section image](assets/images/footer.JPG)
 
