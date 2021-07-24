@@ -5,7 +5,7 @@ Nowadays we live in a very fast paced and stressful world due to work or other s
 Since, mediation is one of the ways to achieve peace and health in your life, this website provides useful information to those who need information on how to meditate,
 and it also provides a choice among four different types of mediation.</p>
 
-<img src="/workspace/john-meditation/assets/images/website-look.JPG">
+<p><img src="/workspace/john-meditation/assets/images/website-look.JPG"> </p>
 
 
 ## Existing features
