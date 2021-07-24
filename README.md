@@ -103,7 +103,7 @@ I have checked that the above mentioned features work as expected, the form requ
 
    [CSS validation](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjoh201.github.io%2Fjohn-meditation%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
-   ### Accessbility
+   ### Accessibility
 
   #### Home page accessibility
 
