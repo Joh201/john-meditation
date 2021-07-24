@@ -135,4 +135,23 @@ No bugs were detected
 
 The live link can be found here: https://joh201.github.io/john-meditation/
 
+### Credits
+
+
+#### Content
+  <ul>
+  <li>Instructions on how to implement form validation on the contact page was adapted from the course work</li>
+  <li> The text for the home page and meditation types were taken from the following websites:
+
+   1. https://gethealthyu.com/different-types-of-meditation/
+
+   2. https://www.moveyourspirityoga.com/5-types-of-meditation/
+
+   3. https://choosemuse.com/blog/6-types-of-meditation/ 
+
+  </li>
+  <li> The social media logos were taken from wikipedia.</li>
+ </ul>
+
+ 
 
