@@ -78,4 +78,44 @@ I have checked that the above mentioned features work as expected, the form requ
 </li>
 </ul>
 
+### Validator Testing
+<ul>
+<li>HTML
+  <ul>
+  <li>Errors were detected when passing through the official W3C validator and they are corrected. There was a warning but it was unnecessary to address the warning.</li>
+  </ul> 
+</li> 
+
+
+   [Home page-validation](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjoh201.github.io%2Fjohn-meditation%2Findex.html)
+
+   [Meditation types page-validation](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjoh201.github.io%2Fjohn-meditation%2Fmeditation-types.html)
+
+   [Contact page-validation](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjoh201.github.io%2Fjohn-meditation%2Fcontact.html)
+   
+
+  <li>CSS
+   <ul>
+   <li>Errors were detected when passing through the official (Jigsaw) validator and they are corrected. </li>
+   </ul>
+   
+</ul>
+
+   [CSS validation](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjoh201.github.io%2Fjohn-meditation%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+   ### Accessbility
+
+  #### Home page accessibility
+
+![Home page accessibility](assets/images/acces-index.JPG)
+
+#### Meditation types page accessibility
+
+![Meditation types page accessibility](assets/images/acces-med-types.JPG)
+
+#### Contact page accessibility
+
+![Contact page accessibility](assets/images/acces-contact.JPG)
+
+
 
