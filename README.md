@@ -65,6 +65,17 @@ It contains links to the Logo of the page, the Home page, Type’s of meditation
 <li>The user gets a feeling of togetherness by joining meditation groups on different social media sites and boost the user’s experience of practicing meditation. </li>
 </ul>
 
-
 ![ footer section image](assets/images/footer.JPG)
+
+### Testing 
+
+<ul>
+<li>This page works on different browsers: Chrome, Microsoft Edge, Firefox.</li>
+<li> On smaller screen sizes the logo is located at the top of the navigation bar.</li>
+<li>I checked that the page is responsive, works and looks good on the standard screen sizes (ipad,Motog4,iphone6/7/8, iphone5/SE , Galaxy s5)  using the devtools device toolbar.</li>
+<li>
+I have checked that the above mentioned features work as expected, the form requires entry on each field, the email field accepts only email address and the checkbox requires that the user checks it before submission, and the submit button allows the user to submit feedback.   
+</li>
+</ul>
+
 
