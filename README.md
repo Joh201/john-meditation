@@ -117,5 +117,22 @@ I have checked that the above mentioned features work as expected, the form requ
 
 ![Contact page accessibility](assets/images/acces-contact.JPG)
 
+### Unfixed bugs
+
+No bugs were detected
+
+
+### Deployment
+
+<ul>
+  <li> The site was deployed to GitHub pages as follows:
+   <ul>
+   <li> In the GitHub repository, navigate to the Settings tab</li>
+   <li>From the source section drop-down menu, select the Master or Main Branch</li>
+   <li>Once the master or main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.</li>
+   </ul>
+</ul>
+
+The live link can be found here: https://joh201.github.io/john-meditation/
 
 
