@@ -201,9 +201,7 @@ footer{
 
 /* For screens  with 1200px and down */
 @media screen and (max-width:1200px) {
-    /* .hero-section{
-     width: 65%;
-    }  */ 
+   
      #quote>p{
       right:100px;
      }
@@ -219,9 +217,7 @@ footer{
 
   /* For screens  with 800px and down */
 @media screen and (max-width:800px) {
-    /* .hero-section{
-     width: 65%;
-    }  */ 
+     
      #quote>p{
       right:50px;
      }
